@@ -1,4 +1,3 @@
-// import axios from "axios";
 import axiosConfig from '../APi/axiosConfig';
 
 export default class PostService {
